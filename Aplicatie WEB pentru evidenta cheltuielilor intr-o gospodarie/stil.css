@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+    font-family: 'Poppins';
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.continut_pie_chart {
+
+    height: 1300px;
+    ;
+    background-image: url(https://images.pexels.com/photos/106152/euro-coins-currency-money-106152.jpeg);
+
+}
+
+.overlay_fundal {
+
+    padding-top: 200px;
+    padding-bottom: 200px;
+
+}
+
+.continut_pie_chart .container {
+
+    background-color: goldenrod;
+    border-radius: 50px;
+    padding: 50px;
+
+}
+
+.main_box h1 {
+
+    padding: 50px 0px 50px 0px;
+    color: black;
+    font: 25px;
+
+}
+
+.main_box {
+
+    background-color: white;
+    height: 140%;
+    border-bottom-left-radius: 1000px;
+    border-bottom-right-radius: 1000px;
+    border-radius: 10px;
+
+}
+
+.sectiune_date {
+
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    height: 100%;
+    padding: 100px;
+
+
+}
+.login_content {
+
+    height: 1300px;
+    background-image: url(https://images.pexels.com/photos/106152/euro-coins-currency-money-106152.jpeg);
+
+}
+.overlay {
+
+    background-color: rgba(226, 198, 108, 0.559);
+    height: 1300px;
+    ;
+    padding-top: 50px;
+    padding-bottom: 100px;
+
+}
+
+
+.login_content .container {
+
+    background-color: rgba(218, 165, 32, 0.515);
+    border-radius: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.box {
+    background-color: goldenrod;
+    display: flex;
+    flex-direction: column;
+    padding: 25px 25px;
+    border-radius: 20px;
+    box-shadow: 0 0 128px 0 rgba(0, 0, 0, 0.1),
+        0 32px 64px -48px rgba(0, 0, 0, 0.5);
+}
+.form-box {
+    width: 100%;
+    margin: 0px 10px;
+}
+.form-box header {
+    font-size: 50px;
+    font-weight: 600;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #000000;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.form-box form .field {
+    display: flex;
+    margin-bottom: 10px;
+    flex-direction: column;
+
+}
+.form-box form .input input {
+    height: 40px;
+    width: 100%;
+    font-size: 16px;
+    padding: 0 10px;
+    border-radius: 5px;
+    border: 1px solid #000000;
+    outline: none;
+}
+.btn {
+    background-color: #cb9611;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+}
+.btn:hover {
+    cursor: pointer;
+    background-color: #9b730f;
+}
+.submit {
+    width: 100%;
+}
+.links {
+    margin-bottom: 15px;
+}
+.links a {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.usertable {
+    width: 100%;
+}
+.usertable th, .usertable td {
+    border-bottom: 1px solid #000000;
+    box-sizing: border-box;
+    padding: 10px 5px;
+
+}
+
+.usertable td {
+    font-size: 16px;
+}
